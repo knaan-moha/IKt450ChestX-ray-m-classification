@@ -2,3 +2,4 @@ Data/
 kaggle_datasets/
 Testimages/
 Datasets/
+*.pth
